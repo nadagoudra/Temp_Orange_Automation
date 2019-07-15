@@ -1,0 +1,7 @@
+<!-- Test step name-->
+  <tr>
+    <td>Enter username</td>
+    <td>username must be entered</td>
+    <td>username entered</td>
+    <td bgcolor="###00FF00">Pass</td>
+  </tr>

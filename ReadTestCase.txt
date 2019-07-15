@@ -1,0 +1,10 @@
+<table style="width:90%";>
+  <tr>
+    <h4><th bgcolor="##CCCCFF"; colspan="4";>Test case name</th></h4>
+  </tr>
+  <tr>
+    <th width="20%">Action</th>
+    <th width="30%">Expected</th>
+    <th width="30%">Actual</th>
+    <th>Result</th>
+  </tr>
