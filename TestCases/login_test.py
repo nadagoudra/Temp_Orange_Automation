@@ -30,7 +30,6 @@ class LoginTest(unittest.TestCase):
         driver.maximize_window()
         startreport()
 
-        
     def test_login(self):
         inserttestcase('test_login')
         driver.implicitly_wait(10)
